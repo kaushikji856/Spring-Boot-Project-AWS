@@ -7,7 +7,6 @@
 	<packaging>war</packaging>
 	<name>Spring Boot Web JSP Example</name>
 	<description>Spring Boot Web JSP Example</description>
-	<start-class>your.app.entry.point.Main</start-class>
 	<version>1.0</version>
 
 	<parent>
