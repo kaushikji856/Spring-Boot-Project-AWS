@@ -70,10 +70,11 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
+			
 			<configuration>
 				<classifier>boot</classifier>
 				</configuration>
+				</plugin>
 		</plugins>
 	</build>
 </project>
