@@ -64,7 +64,7 @@
 
 	</dependencies>
 	<build>
-	<finalName>Bajji-Blog</finalName>
+	<finalName>Spring-Boot-AWS</finalName>
 		<plugins>
 			<!-- Package as an executable jar/war -->
 			<plugin>
